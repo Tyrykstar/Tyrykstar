@@ -1,16 +1,72 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Artur Petryshyn</h2>
+<h4 align="center">Fine design and bringing it to life is what I am passionate about.</h4>
 
-<!--
-**Tyrykstar/Tyrykstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   ##### Resume
 
-Here are some ideas to get you started:
+    | [<img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" width="30" alt="CV" title="CV"/>]() |
+    | -------------------------------------------------------------------------------------------------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   ##### Programming Languages 🌐
+    | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" alt="html5"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="30" alt="css3"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" alt="sass"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" alt="javascript"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" alt="typescript"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" alt="java"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="30" alt="scala"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" alt="mysql"/>](cdn.jsdelivr.net) |
+    | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+
+---
+
+-   ##### Technologies I Use :computer:
+    | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30"/>](cdn.jsdelivr.net) |
+    | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+-   ##### I’m currently learning 🌱
+    | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30"/>](cdn.jsdelivr.net) |
+    | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+-   ##### Want to learn :sparkles:
+    | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="30"/>](cdn.jsdelivr.net) |
+    | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+-   ##### Connect with me :email:
+    | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="30" alt="facebook"/>](https://www.facebook.com/tyrykstar/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin"/>]() |
+    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tyrykstar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+
+---
+
+```java
+public class Main {
+    public static void main(String args[]) {
+
+        User me = new User("Ukraine", "Kyiv");
+        me.introduce();
+    }
+
+    public static class User {
+
+    private final String firstname = "Artur";
+    private final String lastname = "Petryshyn";
+    private String country = "Poland";
+    private String city = "Wrocław";
+    private String[] languages = {"Ukrainian", "russian", "Polish", "English"};
+    private String[] hobbies = {"pencil drawing", "play the guitar", "astronomy"};
+    private String[] ambitions = {"Rust", "Spanish", "Germany", "play the piano", "code an apology algorithm for bugs :)", "and 6 more"};
+
+    // getters and setters? keep in mind that they are the same as the toString method :)
+
+    public User() {}
+
+    public User(String country, String city) {
+        this.country = country;
+        this.city = city;
+        }
+
+    // some useful code...
+    }
+```
