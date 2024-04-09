@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur Petryshyn</h1>
-<h3 align="center">Fine design and bringing it to life is what I am passionate about.</h3>
+<h3 align="center">User-centered design and turning ideas into reality is what I am passionate about. That's why I decided to learn web development. Eager to learn and grow my existing skills for frontend development and explore backend technologies, with a focus on working with cutting-edge tools.</h3>
 
 -   #### Resume
 
