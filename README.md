@@ -3,8 +3,9 @@
 
 -   #### Resume
 
-    | [<img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" width="30" alt="CV" title="CV"/>]() |
+    | [<img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" width="30" alt="CV" title="CV"/>](https://drive.google.com/file/d/1Ppf-652PA_ZTK96EA7G6vBdQMnDCUZC3/view?usp=sharing) |
     | -------------------------------------------------------------------------------------------------------- |
+    
 
 -   #### Programming Languages 🌐
     | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" alt="html5" title="html5"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="30" alt="css3" title="css3"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" alt="sass" title="sass"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" alt="javascript" title="javascript"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" alt="typescript" title="typescript"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" alt="java" title="java"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="30" alt="scala" title="scala"/>](cdn.jsdelivr.net) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" alt="mysql" title="mysql"/>](cdn.jsdelivr.net) |
